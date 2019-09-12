@@ -1,8 +1,6 @@
 from generador import generador
 adivinado=False
-aleatorio=generador(1,20
-
-)
+aleatorio=generador(1,20)
 
 while adivinado==False:
     print("ingrese un num entre 1 y 20")
